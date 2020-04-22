@@ -2,7 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     7360
-    123
+    12556
   </div>
 </template>
 

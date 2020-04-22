@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="../assets/logo.png">
     7360
     12556
+    1234234
   </div>
 </template>
 

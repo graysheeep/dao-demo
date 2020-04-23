@@ -2,7 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     7360
-    2020.4.23
+    2020.4.23 111
   </div>
 </template>
 
